@@ -48,3 +48,9 @@ php -v`
 
 `nano /var/www/projectlamp/index.php`
 ![Create php file inside custom web root folder](../images/project1.md)
+
+`browser showing PHP installation is working`
+![PHP installation in browser](../images/php-browser.png)
+
+`sudo rm /var/www/projectlamp/index.php`
+![remove file containing sensitive information about your PHP environment and Ubuntu server](../images/remove-sensitive-info.png)
