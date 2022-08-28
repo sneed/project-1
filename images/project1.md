@@ -54,3 +54,5 @@ php -v`
 
 `sudo rm /var/www/projectlamp/index.php`
 ![remove file containing sensitive information about your PHP environment and Ubuntu server](../images/remove-sensitive-info.png)
+
+[Google doc with screenshots from project1](https://docs.google.com/document/d/1ef68tetLquSn14B1pQRtK4GutoQGnwWbPISwPoOtN-I/edit?usp=sharing)
